@@ -17,3 +17,4 @@
 # limitations under the License.
 # 
 require "knife/vm"
+require "knife/vm/vagrant"
