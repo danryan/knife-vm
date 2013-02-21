@@ -19,18 +19,20 @@ Or install it yourself as:
 ## Usage
 
 # server management
-knife vm server list
-knife vm server show NAME
 
-knife vm server create NAME
-knife vm server delete NAME
-knife vm server converge NAME
-knife vm server converge NAME
-
+    knife vm server list
+    knife vm server show NAME
+    
+    knife vm server create NAME
+    knife vm server delete NAME
+    knife vm server converge NAME
+    knife vm server converge NAME
+    
 # chef_server management
-knife vm chef_server create
-knife vm chef_server delete
-knife vm configure
+
+    knife vm chef_server create
+    knife vm chef_server delete
+    knife vm configure
 
 ## Contributing
 
